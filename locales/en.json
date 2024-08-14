@@ -1,0 +1,16 @@
+{
+    "debug": "Debug: ",
+
+    "load_in": "Connected: ",
+    "load_out": "Disconnected: ",
+
+    "user_name": "User: ",
+    "user_usid": "User ID: ",
+    "user_idnt": "User Identifier: ",
+    "char_stid": "State ID: ",
+
+    "err_entity": "Entity not found: ",
+
+    "blip_base": "Fort Zancudo",
+    "blip_carrier": "U.S.S. Luxington"
+}
