@@ -4,7 +4,7 @@ AddEventHandler('onResourceStart', function(resourceName)
     if (GetCurrentResourceName() == resourceName) then
       if
         Debug then print(locale('load_rs'))
-        LoadBlips()
+        LoadBlips(Data.Zc.bp)
       end
     end
 end)

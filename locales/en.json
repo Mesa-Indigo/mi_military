@@ -12,6 +12,15 @@
 
     "err_entity": "Entity not found: ",
 
-    "blip_base": "Fort Zancudo",
-    "blip_carrier": "U.S.S. Luxington"
+    "bp_base": "Fort Zancudo",
+    "bp_carr": "U.S.S. Luxington",
+    "bp_fz_in": "Base: ",
+    "bp_hang1": "Hanger A",
+    "bp_hang2": "Hanger B",
+    "bp_contr": "Control Tower",
+    "bp_fires": "Fire Station",
+    "bp_fuels": "Fuel Station",
+    "bp_barks": "Barracks",
+    "bp_trngf": "Training Field",
+    "bp_autog": "Auto Garage"
 }
