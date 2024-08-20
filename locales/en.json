@@ -1,5 +1,6 @@
 {
     "debug": "Debug: ",
+    "load_rs": "Resource Started",
 
     "load_in": "Connected: ",
     "load_out": "Disconnected: ",
